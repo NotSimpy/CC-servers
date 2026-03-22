@@ -18,5 +18,15 @@
     "name": "EU | PUG | 64 Tick",
     "ipPort": "eu.classiccounter.cc:27016",
     "maxPlayers": 10
+  },
+  {
+    "name": "EU | PUG | 128 Tick",
+    "ipPort": "eu.classiccounter.cc:27015",
+    "maxPlayers": 10
+  },
+  {
+    "name": "EU | PUG-2 | 128 Tick",
+    "ipPort": "eu.classiccounter.cc:27022",
+    "maxPlayers": 10
   }
 ]
