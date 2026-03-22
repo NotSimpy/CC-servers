@@ -25,14 +25,8 @@
     "maxPlayers": 10
   },
   {
-    "name": "EU | PUG-2 | 128 Tick",
+    "name": "test",
     "ipPort": "eu.classiccounter.cc:27022",
     "maxPlayers": 10
-  }
-  },
-  {
-    "name": "test test test",
-    "ipPort": "eu.classiccounter.cc:27022",
-    "maxPlayers": 64
   }
 ]
