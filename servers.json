@@ -25,8 +25,13 @@
     "maxPlayers": 10
   },
   {
-    "name": "sometimes works",
+    "name": "testing testing",
     "ipPort": "eu.classiccounter.cc:27022",
+    "maxPlayers": 10
+  },
+  {
+    "name": "testing 2",
+    "ipPort": "eu.classiccounter.cc:27023",
     "maxPlayers": 10
   }
 ]
