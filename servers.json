@@ -29,4 +29,10 @@
     "ipPort": "eu.classiccounter.cc:27022",
     "maxPlayers": 10
   }
+  },
+  {
+    "name": "test test test",
+    "ipPort": "eu.classiccounter.cc:27022",
+    "maxPlayers": 64
+  }
 ]
