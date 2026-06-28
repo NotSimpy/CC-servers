@@ -35,7 +35,7 @@
     "flagUrl": "https://raw.githubusercontent.com/NotSimpy/CC-servers/refs/heads/main/EU.png"
   },
   {
-    "name": "RU | ClassicCounter | PUG | 128 Tick",
+    "name": "RU | PUG | 128 Tick",
     "ipPort": "ru.classiccounter.cc:27015",
     "maxPlayers": 10,
     "flagUrl": "https://raw.githubusercontent.com/NotSimpy/CC-servers/refs/heads/main/RU.png"
