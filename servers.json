@@ -7,31 +7,37 @@
   {
     "name": "NA | PUG | 64 Tick",
     "ipPort": "na.classiccounter.cc:27015",
-    "maxPlayers": 10
+    "maxPlayers": 10,
+    "flagUrl": "https://github.com/NotSimpy/CC-servers/blob/main/NA.png"
   },
   {
     "name": "NA | PUG-2 | 64 Tick",
     "ipPort": "na.classiccounter.cc:27016",
-    "maxPlayers": 10
+    "maxPlayers": 10,
+    "flagUrl": "https://github.com/NotSimpy/CC-servers/blob/main/NA.png"
   },
   {
     "name": "EU | PUG | 64 Tick",
     "ipPort": "eu.classiccounter.cc:27016",
-    "maxPlayers": 10
+    "maxPlayers": 10,
+    "flagUrl": "https://github.com/NotSimpy/CC-servers/blob/main/EU.png"
   },
   {
     "name": "EU | PUG | 128 Tick",
     "ipPort": "eu.classiccounter.cc:27015",
-    "maxPlayers": 10
+    "maxPlayers": 10,
+    "flagUrl": "https://github.com/NotSimpy/CC-servers/blob/main/EU.png"
   },
   {
     "name": "EU | PUG-2 | 128 Tick",
     "ipPort": "eu.classiccounter.cc:27022",
-    "maxPlayers": 10
+    "maxPlayers": 10,
+    "flagUrl": "https://github.com/NotSimpy/CC-servers/blob/main/EU.png"
   },
-    {
+  {
     "name": "RU | ClassicCounter | PUG | 128 Tick",
     "ipPort": "ru.classiccounter.cc:27015",
-    "maxPlayers": 10
+    "maxPlayers": 10,
+    "flagUrl": "https://github.com/NotSimpy/CC-servers/blob/main/RU.png"
   }
 ]
